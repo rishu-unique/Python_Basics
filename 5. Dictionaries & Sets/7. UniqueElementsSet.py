@@ -1,0 +1,21 @@
+# Python code to create a set from user input
+# and print the unique elements
+s = set()
+n = input("Enter a number: ")
+s.add(int(n))
+n = input("Enter a number: ")
+s.add(int(n))
+n = input("Enter a number: ")
+s.add(int(n))
+n = input("Enter a number: ")
+s.add(int(n))
+n = input("Enter a number: ")
+s.add(int(n))
+n = input("Enter a number: ")
+s.add(int(n))
+n = input("Enter a number: ")
+s.add(int(n))
+n = input("Enter a number: ")
+s.add(int(n))
+
+print(s)
