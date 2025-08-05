@@ -1,4 +1,4 @@
-# Riot Internship Python Projects 🚀
+# Internship Python Projects 🚀
 
 This repository is a collection of Python programs I created as part of my preparation for the **Riot Games Software Engineering Internship (Summer 2026)**. It includes well-organized, commented code covering everything from basic syntax to game-inspired projects.
 
